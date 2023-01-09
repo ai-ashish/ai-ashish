@@ -25,7 +25,7 @@ void print(int arr[], int size)
 
 int main()
 {
-    int arr[] = {12,56,89,65,75,26};
+    int arr[] = {12,56,90,65,75,65};
     swap(arr, 6);
     print(arr,6);
     return 0;
